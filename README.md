@@ -13,5 +13,5 @@ DevOps your Oracle Database with Liquibase in less than 1 hour aka Take control 
    4. https://docs.liquibase.com/
    5. https://learn.liquibase.com/catalog
 
-k  
+
 
